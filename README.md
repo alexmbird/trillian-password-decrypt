@@ -1,5 +1,5 @@
-Trillian Password Decryptor
-===========================
+Python 3 Trillian Password Decrypting Tool
+==========================================
 
 ...because you want to party like it's 2001.
 
